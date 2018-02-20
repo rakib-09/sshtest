@@ -17,5 +17,9 @@ Env.hosts:
 	Your Hostname of Hosting server (To connect through SSH)
 Env.user :
 	UserName of Hosting server (To connect through SSH)
+ 
+ **After Changing all of this information you are good to go!!! 😊 
+ 
+ 3. Now just write "fab deploy".
 
-**After Changing all of this information you are good to go!!! 😊 
+
