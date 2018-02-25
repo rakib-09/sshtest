@@ -19,9 +19,9 @@ Upload Project to hosting direct from Git Server
 	Your file path at hosting.
 	```
  ## REPO_URL:
- ```
+ 	```
 	Your Git server link…(.git)
-```
+	```
 ## Env.hosts:
 	```
 	Your Hostname of Hosting server (To connect through SSH)
