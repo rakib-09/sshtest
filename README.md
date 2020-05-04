@@ -29,7 +29,7 @@ Upload Project to hosting direct from Git Server
 ## Env.user :
 	UserName of Hosting server (To connect through SSH)
  
- **After Changing all of this information you are good to go!!! 😊 
+ #### After Changing all of this information you are good to go!!! 😊 
  
  * Now just write "fab deploy".
 
