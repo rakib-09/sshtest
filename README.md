@@ -31,6 +31,8 @@ Upload Project to hosting direct from Git Server
  
  #### After Changing all of this information you are good to go!!! 😊 
  
- * Now just write "fab deploy".
-
+ * Now just write
+ ```
+ fab deploy
+```
 
